@@ -4,7 +4,7 @@ function createHeader() {
             <div class="container">
                 <div class="header-content">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="homePage.html">
                             <div class="logo-icon">S</div>
                             <span class="logo-text">ShoesStore</span>
                         </a>
@@ -13,7 +13,7 @@ function createHeader() {
                     <nav class="main-nav">
                         <ul class="nav-list">
                             <li class="nav-item">
-                                <a href="index.html" class="nav-link">Home</a>
+                                <a href="homePage.html" class="nav-link">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a href="products.html" class="nav-link">Products</a>
